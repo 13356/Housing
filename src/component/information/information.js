@@ -16,7 +16,7 @@ class Information extends React.Component {
                 66666             
             </div>
             <div className="App">
-                11223  
+                11223  2
             </div>
             <div>
                 <Link to="/information/chidrou">Chidrou</Link><br/>
