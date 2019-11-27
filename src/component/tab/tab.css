@@ -1,0 +1,26 @@
+*{
+	margin: 0 auto;
+	padding: 0 auto;
+}
+.userfrom{
+	width: 100px;
+	float: left;
+}
+.userfrom .userfrom-box{
+	text-align: center;
+	line-height: 40px;
+	height: 40px;
+	font-size: 14px;
+	background:#D8BFD8;
+	
+}
+.userfrom-top{
+	width: 1200px;
+	margin: 0 auto;
+}
+.userfrom .userfrom-box a{
+	text-decoration: none;
+	color:#fff;
+	text-align: center;
+	margin: 0;
+}

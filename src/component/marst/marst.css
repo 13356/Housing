@@ -1,0 +1,52 @@
+.record-top{
+	width: 900px;
+	height: 300px;
+	border: 1px solid #dcdcdc;
+}
+.record-data{
+	height: 60px;
+	line-height: 60px;
+	font-size: 14px;
+	text-align: left;
+	padding-left: 20px;
+	box-sizing:border-box;
+}
+.record-data input{
+	width: 20px;
+	margin-left: 5px;
+}
+.record-data .year{
+	width: 40px;
+}
+.record-data-pre{
+	height: 70px;
+	line-height: 70px;
+	font-size: 14px;
+	text-align: right;
+	padding-right: 10px;
+	box-sizing:border-box;
+}
+.record-data-pre input{
+	margin-left: 5px;
+	width: 100px;
+	border-bottom: 1px solid #dcdcdc;
+}
+.record-bo{
+	width: 900px;
+	height: 200px;
+	border: 1px solid #dcdcdc;
+	margin-bottom: 50px;
+	
+}
+.record-datao{
+	height: 130px;
+	line-height: 130px;
+	font-size: 14px;
+	text-align: left;
+	padding-left: 20px;
+	box-sizing:border-box;
+}
+.record-datao input{
+	width: 20px;
+	margin-left: 5px;
+}
